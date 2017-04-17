@@ -1,0 +1,18 @@
+COMO USAR GITHUB
+
+1. Crear usuario en github.com
+2. Descargar git bash desde https://git-for-windows.github.io/
+3. LA PRIMERA VEZ SOLO: Copiar la direccion del repositiorio: https://github.com/criswriter/Programacion-de-sistemas.git
+4. LA PRIMERA VEZ SOLO: Abrir el programa git bash, e ir a la carpeta donde vayais a trabajar con progra. (Como en cmd, usando cd)
+5. LA PRIMERA VEZ SOLO: Una vez en la direccion donde trabajeis, escribir: git clone https://github.com/criswriter/Programacion-de-sistemas.git
+6. SI OS DA ERROR LA PRIMERA VEZ: por orden: 
+	- git config --global user.email "email que hayais puesto en la cuenta de github"
+	- git config --global user.name "nombre de usuario que hayais puesto"
+6. Cada vez que trabajeis: 
+	6.1. Abrir git bash e ir a la carpeta de trabajo (como antes)
+	6.2. Escribir git pull ( esto descargara todas las novedades que se hayan hecho)
+	6.3. Una vez acabeis de trabajar, teneis que hacer por orden
+		- git add ./
+		- git commit -m 'Aqui escribid una pequeña descripcion de los cambios'
+		- git push
+	Y ya se habra subido todo
