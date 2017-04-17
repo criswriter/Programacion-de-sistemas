@@ -1,0 +1,5 @@
+﻿  Trabajo2.c
+c:\users\cristina\desktop\escuela\asignaturas\programacion de sistemas\trabajo1\nueva idea\trabajo2.c(16): warning C4013: 'gets' sin definir; se supone que extern devuelve como resultado int
+c:\users\cristina\desktop\escuela\asignaturas\programacion de sistemas\trabajo1\nueva idea\trabajo2.c(8): warning C4101: 'i': variable local sin referencia
+  ConsoleApplication1.vcxproj -> C:\Users\Cristina\Desktop\ESCUELA\asignaturas\Programacion de Sistemas\trabajo1\Nueva idea\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\Cristina\Desktop\ESCUELA\asignaturas\Programacion de Sistemas\trabajo1\Nueva idea\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Partial PDB)
