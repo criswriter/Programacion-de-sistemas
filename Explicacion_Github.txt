@@ -15,4 +15,5 @@ COMO USAR GITHUB
 		- git add ./
 		- git commit -m 'Aqui escribid una pequeña descripcion de los cambios'
 		- git push
-	Y ya se habra subido todo
+	
+	Y ya se ha subido todo
